@@ -1,0 +1,11 @@
+export const LIST_ITEM    = 'LIST_ALL';
+export const ADD_ITEM     = 'ADD_ITEM';
+export const DEL_ITEM     = 'DEL_ITEM';
+export const UPD_ITEM     = 'UPD_ITEM';
+export const GET_ITEMS    = 'GET_ITEMS';
+export const USER_LOGIN   = 'USER_LOGIN';
+export const USER_CREATE  = 'USER_CREATE';
+export const USER_LOGGING = 'USER_LOGGING';
+export const USER_LOGOUT  = 'USER_LOGOUT';
+export const USER_LOGIN_FALSE = "USER_LOGIN_FALSE"
+export const CHECK_LOGGED = "CHECK_LOGGED"
